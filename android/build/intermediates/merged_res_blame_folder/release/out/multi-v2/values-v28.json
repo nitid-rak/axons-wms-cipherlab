@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Work\\AXONS-WMS-UI\\node_modules\\@app2one\\react-native-cipherlab-scanner\\android\\build\\intermediates\\res\\merged\\release\\values-v28\\values-v28.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\nathapong.sup\\.gradle\\caches\\transforms-3\\a755f6196fc7666b4bc1fd1b013b70c0\\transformed\\appcompat-1.0.2\\res\\values-v28\\values-v28.xml",
+                    "from": {
+                        "startLines": "2,3,4,8",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,447",
+                        "endLines": "2,3,7,11",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,442,684"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Work\\AXONS-WMS-UI\\node_modules\\@app2one\\react-native-cipherlab-scanner\\android\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v28\\values-v28.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\nathapong.sup\\.gradle\\caches\\transforms-3\\a755f6196fc7666b4bc1fd1b013b70c0\\transformed\\appcompat-1.0.2\\res\\values-v28\\values-v28.xml",
+                    "from": {
+                        "startLines": "2,3,4,8",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,447",
+                        "endLines": "2,3,7,11",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,442,684"
+                    }
+                }
+            ]
+        }
+    ]
+}

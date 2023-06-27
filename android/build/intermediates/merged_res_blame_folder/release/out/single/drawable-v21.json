@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Work\\AXONS-WMS-UI\\node_modules\\@app2one\\react-native-cipherlab-scanner\\android\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_list_divider_material.xml",
+        "source": "C:\\Users\\nathapong.sup\\.gradle\\caches\\transforms-3\\a755f6196fc7666b4bc1fd1b013b70c0\\transformed\\appcompat-1.0.2\\res\\drawable-v21\\abc_list_divider_material.xml"
+    },
+    {
+        "merged": "D:\\Work\\AXONS-WMS-UI\\node_modules\\@app2one\\react-native-cipherlab-scanner\\android\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\nathapong.sup\\.gradle\\caches\\transforms-3\\a755f6196fc7666b4bc1fd1b013b70c0\\transformed\\appcompat-1.0.2\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\Work\\AXONS-WMS-UI\\node_modules\\@app2one\\react-native-cipherlab-scanner\\android\\build\\intermediates\\res\\merged\\release\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\nathapong.sup\\.gradle\\caches\\transforms-3\\e9c9c98afc3335f5c0f4b11430e8532b\\transformed\\core-1.1.0\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\Work\\AXONS-WMS-UI\\node_modules\\@app2one\\react-native-cipherlab-scanner\\android\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\nathapong.sup\\.gradle\\caches\\transforms-3\\a755f6196fc7666b4bc1fd1b013b70c0\\transformed\\appcompat-1.0.2\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Work\\AXONS-WMS-UI\\node_modules\\@app2one\\react-native-cipherlab-scanner\\android\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\nathapong.sup\\.gradle\\caches\\transforms-3\\a755f6196fc7666b4bc1fd1b013b70c0\\transformed\\appcompat-1.0.2\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Work\\AXONS-WMS-UI\\node_modules\\@app2one\\react-native-cipherlab-scanner\\android\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\nathapong.sup\\.gradle\\caches\\transforms-3\\a755f6196fc7666b4bc1fd1b013b70c0\\transformed\\appcompat-1.0.2\\res\\drawable-v21\\abc_dialog_material_background.xml"
+    }
+]

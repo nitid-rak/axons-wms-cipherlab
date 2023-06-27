@@ -1,0 +1,26 @@
+
+{
+  "name": "@app2one/react-native-cipherlab-scanner",
+  "version": "0.0.7",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native", "CipherLab", "Barcode","Scanner"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/app2one/react-native-cipherlab-scanner.git"
+  },   
+  "author": "App2One",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "^0.59.9"
+  },
+  "bugs": {
+    "url": "https://github.com/app2one/react-native-cipherlab-scanner/issues"
+  },
+  "homepage": "https://github.com/app2one/react-native-cipherlab-scanner#readme"
+}

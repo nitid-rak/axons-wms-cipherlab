@@ -1,0 +1,10 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="au.com.micropacific" > <!-- package="au.com.micropacific.react.cipherlab" -->
+4    <uses-sdk
+5        android:minSdkVersion="16"
+5-->D:\Work\AXONS-WMS-UI\node_modules\@app2one\react-native-cipherlab-scanner\android\src\main\AndroidManifest.xml
+6        android:targetSdkVersion="22" />
+6-->D:\Work\AXONS-WMS-UI\node_modules\@app2one\react-native-cipherlab-scanner\android\src\main\AndroidManifest.xml
+7
+8</manifest>

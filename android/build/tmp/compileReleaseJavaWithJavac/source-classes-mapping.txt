@@ -1,0 +1,10 @@
+au/com/micropacific/CipherLabScannerPackage.java
+ au.com.micropacific.CipherLabScannerPackage
+au/com/micropacific/CipherLabScannerModule.java
+ au.com.micropacific.CipherLabScannerModule
+au/com/micropacific/IModuleCounter.java
+ au.com.micropacific.IModuleCounter
+au/com/micropacific/DataReceiver.java
+ au.com.micropacific.DataReceiver
+au/com/micropacific/BuildConfig.java
+ au.com.micropacific.BuildConfig
