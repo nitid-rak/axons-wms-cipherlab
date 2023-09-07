@@ -143,15 +143,17 @@ public class CipherLabScannerModule extends ReactContextBaseJavaModule {
         this.initialise(true);
     }
 
-    @ReactMethod
-    public void unRegister(){
-        Log.v(CipherLabScannerModule.DEBUG_TAG, "CipherLabScanner.unregisterReceiver()");
-        this.activity.unregisterReceiver(mDataReceiver);
-        mReaderManager.Release();
-        this.mReaderManager =null;
-        this.mDataReceiver =null;
-        this.activity =null;
-     }
+   @ReactMethod
+    public void unRegister() {
+        if (this.mDataReceiver != null) {
+            Log.v(CipherLabScannerModule.DEBUG_TAG, "CipherLabScanner.unregisterReceiver()");
+            this.activity.unregisterReceiver(mDataReceiver);
+            mReaderManager.Release();
+            this.mReaderManager = null;
+            this.mDataReceiver = null;
+            this.activity = null;
+        }
+    }
 
 	public void initialise(boolean checkRegisteredModules)
 	{
